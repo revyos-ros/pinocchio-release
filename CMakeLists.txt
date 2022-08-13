@@ -35,6 +35,7 @@ endif()
 # --- OPTIONS  ---------------------------------------
 # Need to be set before including base.cmake
 # ----------------------------------------------------
+
 option(INSTALL_DOCUMENTATION "Generate and install the documentation" OFF)
 
 # Check if the submodule cmake have been initialized
