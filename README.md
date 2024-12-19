@@ -1,3 +1,26 @@
+## pinocchio (jazzy) - 3.3.1-1
+
+The packages in the `pinocchio` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy pinocchio --override-release-repository-push-url git@github.com:revyos-ros/pinocchio-release.git` on `Thu, 19 Dec 2024 10:03:28 -0000`
+
+The `pinocchio` package was released.
+
+Version of package(s) in repository `pinocchio`:
+
+- upstream repository: https://github.com/stack-of-tasks/pinocchio.git
+- release repository: https://github.com/revyos-ros/pinocchio-release.git
+- rosdistro version: `3.3.0-1`
+- old version: `2.6.21-3`
+- new version: `3.3.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## pinocchio (humble) - 3.3.1-1
 
 The packages in the `pinocchio` repository were released into the `humble` distro by running `/tmp/venv/bin/bloom-release -r humble pinocchio --override-release-repository-push-url git@github.com:revyos-ros/pinocchio-release.git` on `Sun, 15 Dec 2024 07:58:08 -0000`
