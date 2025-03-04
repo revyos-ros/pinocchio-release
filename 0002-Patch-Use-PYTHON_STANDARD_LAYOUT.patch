@@ -1,4 +1,4 @@
-From 2d7abab2ee38ea2214978520abb8eb3b51c4384d Mon Sep 17 00:00:00 2001
+From 21235e2e7fdc6e18cbb52dc9ddf3304bcbad46c8 Mon Sep 17 00:00:00 2001
 From: Wolfgang Merkt <w.merkt@gmail.com>
 Date: Sat, 13 Aug 2022 15:01:41 +0100
 Subject: [PATCH 2/2] Patch: Use PYTHON_STANDARD_LAYOUT
@@ -8,7 +8,7 @@ Subject: [PATCH 2/2] Patch: Use PYTHON_STANDARD_LAYOUT
  1 file changed, 1 insertion(+)
 
 diff --git a/CMakeLists.txt b/CMakeLists.txt
-index 68ab593..9bf921d 100644
+index 473ea2d..5acdc12 100644
 --- a/CMakeLists.txt
 +++ b/CMakeLists.txt
 @@ -35,6 +35,7 @@ endif()
